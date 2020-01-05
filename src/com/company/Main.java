@@ -43,9 +43,9 @@ public class Main {
             }
         }
         System.out.println(stu_L200_L300);
-        Course audit200_300 = new Course(lecturer, stu_L200_L300, Level.LEVEL200)
+        Course audit200_300 = new Course(lecturer, stu_L200_L300, Level.LEVEL200);
 
-                ;
+        System.out.println(lecturer);
 
 
 
